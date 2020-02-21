@@ -1,1 +1,2 @@
-# Minmin-e "\nThis line from local repository" 
+# Minmin-e 
+"\nThis line from local repository" 
